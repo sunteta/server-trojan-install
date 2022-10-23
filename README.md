@@ -16,6 +16,8 @@
 # 请将命令中的domain.com替换成节点域名
 
 curl -fsSL https://github.com/xflash-panda/server-trojan-install/raw/master/sign.sh | bash -s domain.com
+
+curl -fsSL https://raw.githubusercontent.com/sunteta/server-trojan-install/master/sign.sh | bash -s domain.com
 ```
 
 3.执行部署命令
